@@ -1,0 +1,26 @@
+section{
+    display: flex;
+}
+#menu{
+    height: 700px;
+    width: 400px;
+    background-color:#3f0e40;
+}
+#detail{
+    height: 700px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+header{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+
+}
+.time{
+    display: flex;
+}
+.rena{
+    
+}
